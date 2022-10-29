@@ -1,0 +1,11 @@
+Rascunho
+Menu;
+Logotipo;
+Destaque;
+Receita facil;
+Diferentes tipos de doces e sobremesas;
+Redes sociais;
+Ativação de notificação por email;
+Formulário;
+Ajuda;
+Leitor de áudio para pessoas com deficiências; 
